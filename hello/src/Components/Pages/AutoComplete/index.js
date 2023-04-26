@@ -1,7 +1,9 @@
+import BasicCard from "../../BasicCard";
+
 export default function AutoComplete(){
     return (
         <>
-        hello
+        <BasicCard/>
         </>
     )
 }
